@@ -131,7 +131,14 @@ If you use this code, please cite:
   doi     = {[DOI]}
 }
 ```
-
+@software{ghosal_ram_2026,
+  author = {Ghosal, Rupam and collaborators},
+  title = {Unified Respiratory Airway Mechanics (RAM) Model},
+  year = {2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.20480587},
+  url = {https://doi.org/10.5281/zenodo.20480587}
+}
 ---
 
 ## License
